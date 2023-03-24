@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "mybatis.model.pack",
+      "type": "java.lang.String",
+      "description": "Description for mybatis.model.pack."
+    },
+    {
+      "name": "mybatis.database.type",
+      "type": "java.lang.String",
+      "description": "Description for mybatis.database.type."
+    },
+    {
+      "name": "mybatis.table.auto",
+      "type": "java.lang.String",
+      "description": "Description for mybatis.table.auto."
+    }
+  ] }
